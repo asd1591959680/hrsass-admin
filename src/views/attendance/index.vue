@@ -1,0 +1,17 @@
+<!--  -->
+<template>
+  <div>考勤</div>
+</template>
+
+<script>
+export default {
+  components: {},
+  data() {
+    return {}
+  },
+  computed: {},
+  methods: {},
+  created() {},
+}
+</script>
+<style lang="scss" scoped></style>
